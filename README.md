@@ -1,8 +1,8 @@
 # truInfluence
 
-[Video](http://www.youtube.com/watch?v=9JYbff-fTZA) 
-[Live Demo](http://truinfluence.herokuapp.com/) 
-[Final Report](https://drive.google.com/file/d/0B0tiOZdBrlMVN2VGRlVpLWd2RjQ/view?usp=sharing)
+[Video](http://www.youtube.com/watch?v=9JYbff-fTZA) </br>
+[Live Demo](http://truinfluence.herokuapp.com/) </br>
+[Final Report](https://drive.google.com/file/d/0B0tiOZdBrlMVN2VGRlVpLWd2RjQ/view?usp=sharing) </br>
 
 <img src="https://drive.google.com/uc?export=view&id=0BwfofHuPcxWQenRVMHdHRFRBVXc"></img>
 
